@@ -1,6 +1,6 @@
-"""
-Makes a pendulum clamp  
-"""
+""""""""""""""""""""""""""""""""""""""
+Makes a pendulum and photogate clamp  
+"""""""""""""""""""""""""""""""""""""
 
 import sys
 import scipy
